@@ -1,0 +1,69 @@
+{
+    "paper_id": "DBMS_2021",
+    "subject": "Database Management Systems",
+    "course": "B.Tech Computer Engineering",
+    "year": 2021,
+    "source": "Synthetic sample data",
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Explain the three-schema architecture of DBMS.",
+            "marks": 5,
+            "expected_topic": "DBMS Fundamentals"
+        },
+        {
+            "question_number": 2,
+            "question_text": "Differentiate between DBMS and file processing systems.",
+            "marks": 5,
+            "expected_topic": "DBMS Fundamentals"
+        },
+        {
+            "question_number": 3,
+            "question_text": "Draw an ER diagram for a college management system.",
+            "marks": 10,
+            "expected_topic": "ER Model"
+        },
+        {
+            "question_number": 4,
+            "question_text": "Explain primary keys and foreign keys with examples.",
+            "marks": 5,
+            "expected_topic": "Relational Model"
+        },
+        {
+            "question_number": 5,
+            "question_text": "Write an SQL query to retrieve students with marks above 75.",
+            "marks": 5,
+            "expected_topic": "SQL"
+        },
+        {
+            "question_number": 6,
+            "question_text": "Explain the basic operations of relational algebra.",
+            "marks": 5,
+            "expected_topic": "Relational Algebra"
+        },
+        {
+            "question_number": 7,
+            "question_text": "What is functional dependency? Explain with an example.",
+            "marks": 5,
+            "expected_topic": "Functional Dependencies"
+        },
+        {
+            "question_number": 8,
+            "question_text": "Explain 1NF, 2NF and 3NF with suitable examples.",
+            "marks": 10,
+            "expected_topic": "Normalization"
+        },
+        {
+            "question_number": 9,
+            "question_text": "Explain ACID properties of database transactions.",
+            "marks": 5,
+            "expected_topic": "Transactions"
+        },
+        {
+            "question_number": 10,
+            "question_text": "What is an index? Explain primary and secondary indexes.",
+            "marks": 5,
+            "expected_topic": "Indexing"
+        }
+    ]
+}

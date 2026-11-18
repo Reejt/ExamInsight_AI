@@ -1,0 +1,69 @@
+{
+    "paper_id": "DBMS_2025",
+    "subject": "Database Management Systems",
+    "course": "B.Tech Computer Engineering",
+    "year": 2025,
+    "source": "Synthetic sample data",
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Differentiate between logical and physical data independence.",
+            "marks": 5,
+            "expected_topic": "DBMS Fundamentals"
+        },
+        {
+            "question_number": 2,
+            "question_text": "Design an ER model for an online shopping application.",
+            "marks": 10,
+            "expected_topic": "ER Model"
+        },
+        {
+            "question_number": 3,
+            "question_text": "Write SQL queries using UPDATE, DELETE and INSERT.",
+            "marks": 5,
+            "expected_topic": "SQL"
+        },
+        {
+            "question_number": 4,
+            "question_text": "Explain relational algebra division operation.",
+            "marks": 5,
+            "expected_topic": "Relational Algebra"
+        },
+        {
+            "question_number": 5,
+            "question_text": "Explain partial and transitive dependencies.",
+            "marks": 5,
+            "expected_topic": "Functional Dependencies"
+        },
+        {
+            "question_number": 6,
+            "question_text": "Explain 2NF, 3NF and BCNF with examples.",
+            "marks": 10,
+            "expected_topic": "Normalization"
+        },
+        {
+            "question_number": 7,
+            "question_text": "Explain conflict serializability with an example.",
+            "marks": 10,
+            "expected_topic": "Concurrency Control"
+        },
+        {
+            "question_number": 8,
+            "question_text": "Describe the different states of a transaction.",
+            "marks": 5,
+            "expected_topic": "Transactions"
+        },
+        {
+            "question_number": 9,
+            "question_text": "Explain database backup and recovery techniques.",
+            "marks": 10,
+            "expected_topic": "Database Recovery"
+        },
+        {
+            "question_number": 10,
+            "question_text": "Compare B-tree indexing and hash indexing.",
+            "marks": 10,
+            "expected_topic": "Indexing"
+        }
+    ]
+}

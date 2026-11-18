@@ -1,0 +1,69 @@
+{
+    "paper_id": "DBMS_2023",
+    "subject": "Database Management Systems",
+    "course": "B.Tech Computer Engineering",
+    "year": 2023,
+    "source": "Synthetic sample data",
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Explain the advantages and applications of DBMS.",
+            "marks": 5,
+            "expected_topic": "DBMS Fundamentals"
+        },
+        {
+            "question_number": 2,
+            "question_text": "Explain weak entities and identifying relationships.",
+            "marks": 5,
+            "expected_topic": "ER Model"
+        },
+        {
+            "question_number": 3,
+            "question_text": "Write SQL queries involving nested subqueries.",
+            "marks": 10,
+            "expected_topic": "SQL"
+        },
+        {
+            "question_number": 4,
+            "question_text": "Explain relational algebra set operations.",
+            "marks": 5,
+            "expected_topic": "Relational Algebra"
+        },
+        {
+            "question_number": 5,
+            "question_text": "Explain lossless decomposition and dependency preservation.",
+            "marks": 10,
+            "expected_topic": "Normalization"
+        },
+        {
+            "question_number": 6,
+            "question_text": "Find the candidate keys of a relation using functional dependencies.",
+            "marks": 10,
+            "expected_topic": "Functional Dependencies"
+        },
+        {
+            "question_number": 7,
+            "question_text": "Explain transaction states with a diagram.",
+            "marks": 5,
+            "expected_topic": "Transactions"
+        },
+        {
+            "question_number": 8,
+            "question_text": "What are deadlocks? Explain deadlock prevention.",
+            "marks": 10,
+            "expected_topic": "Concurrency Control"
+        },
+        {
+            "question_number": 9,
+            "question_text": "Explain checkpointing in database recovery.",
+            "marks": 5,
+            "expected_topic": "Database Recovery"
+        },
+        {
+            "question_number": 10,
+            "question_text": "Differentiate between clustered and non-clustered indexes.",
+            "marks": 5,
+            "expected_topic": "Indexing"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "paper_id": "DBMS_2022",
+    "subject": "Database Management Systems",
+    "course": "B.Tech Computer Engineering",
+    "year": 2022,
+    "source": "Synthetic sample data",
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "Explain data independence and its types.",
+            "marks": 5,
+            "expected_topic": "DBMS Fundamentals"
+        },
+        {
+            "question_number": 2,
+            "question_text": "Explain entity, attribute and relationship in an ER model.",
+            "marks": 5,
+            "expected_topic": "ER Model"
+        },
+        {
+            "question_number": 3,
+            "question_text": "Convert an ER diagram into relational tables.",
+            "marks": 10,
+            "expected_topic": "ER Model"
+        },
+        {
+            "question_number": 4,
+            "question_text": "Explain different types of SQL joins with examples.",
+            "marks": 10,
+            "expected_topic": "SQL"
+        },
+        {
+            "question_number": 5,
+            "question_text": "Write SQL queries using GROUP BY and HAVING.",
+            "marks": 5,
+            "expected_topic": "SQL"
+        },
+        {
+            "question_number": 6,
+            "question_text": "Explain selection and projection in relational algebra.",
+            "marks": 5,
+            "expected_topic": "Relational Algebra"
+        },
+        {
+            "question_number": 7,
+            "question_text": "Define functional dependency and explain its properties.",
+            "marks": 5,
+            "expected_topic": "Functional Dependencies"
+        },
+        {
+            "question_number": 8,
+            "question_text": "Explain BCNF with an example.",
+            "marks": 10,
+            "expected_topic": "Normalization"
+        },
+        {
+            "question_number": 9,
+            "question_text": "Explain the two-phase locking protocol.",
+            "marks": 10,
+            "expected_topic": "Concurrency Control"
+        },
+        {
+            "question_number": 10,
+            "question_text": "Describe database recovery using log-based techniques.",
+            "marks": 5,
+            "expected_topic": "Database Recovery"
+        }
+    ]
+}
